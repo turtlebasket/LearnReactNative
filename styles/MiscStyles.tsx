@@ -6,6 +6,12 @@ const miscstyles = StyleSheet.create({
     margin: 10,
     width: 140,
     height: 140
+  },
+  mainImage: {
+    height: 400,
+    alignSelf: 'stretch',
+    marginTop: 10,
+    marginBottom: 20,
   }
 });
 
